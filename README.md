@@ -4,6 +4,8 @@
 
 If you happen to be here, you most likely attended my TypeScript workshop in Berlin or lately via Zoom. 
 
+This repo will be updated with more content in the near future, so ⭐️ for now and enjoy more updates later! 
+
 ## How to use the project?
 
 - go to `/src/Workshop.tsx` to revise the basic concepts that we explored together
